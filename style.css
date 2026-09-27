@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+p {
+    font-size: 18px;
+}
