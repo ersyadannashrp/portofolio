@@ -17,4 +17,4 @@ Personal portfolio website for Ersya Dannas Hrp, Computer Science student at BIN
 - GitHub Pages
 
 ## Notes
-Project documentation and repository links can be added as each individual project repository is published.
+Project documentation and repository links can be added as each individual project repository is published..
